@@ -12,7 +12,7 @@
           <Layout>
             <Header className="header-color" title="Dylan Stump - Portfolio" scroll>
               <Navigation>
-                <Link style={{fontSize:'1.7em', fontFamily:'Questrial'}} to="/">Home</Link>
+                <Link style={{fontSize:'1.7em', fontFamily:'Questrial'}} to="/home">Home</Link>
                 <Link style={{fontSize:'1.7em', fontFamily:'Questrial'}} to="/resume">Resume</Link>
                 <Link style={{fontSize:'1.7em', fontFamily:'Questrial'}} to="/projects">Projects</Link>
                 <Link style={{fontSize:'1.7em', fontFamily:'Questrial'}} to="/contact">Contact</Link>
@@ -20,7 +20,7 @@
             </Header>
             <Drawer title="Portfolio">
               <Navigation>
-              <Link style={{fontSize:'1.5em', fontFamily:'Jura', color:'black'}} to="/">// Home</Link>
+              <Link style={{fontSize:'1.5em', fontFamily:'Jura', color:'black'}} to="/home">// Home</Link>
               <Link style={{fontSize:'1.5em', fontFamily:'Jura', color:'black'}} to="/resume">// Resume</Link>
               <Link style={{fontSize:'1.5em', fontFamily:'Jura', color:'black'}} to="/projects">// Projects</Link>
               <Link style={{fontSize:'1.5em', fontFamily:'Jura', color:'black'}} to="/contact">// Contact</Link>
