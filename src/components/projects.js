@@ -11,7 +11,7 @@
       if (this.state.activeTab === 0){
         return(
           <Card shadow={10} style={{width:'1050px', height:'650px', margin:'auto', marginBottom:'24px', border:'2px solid black'}}>
-            <CardTitle style={{height:'400px', background:'url(https://dylanandrew88.github.io/portfolio/jukeboxhero.png) no-repeat', backgroundSize:'1050px 590px', color:'black'}}></CardTitle>
+            <CardTitle style={{height:'400px', background:'url(https://footballilluminatihome.files.wordpress.com/2019/06/jukeboxhero.png) no-repeat', backgroundSize:'1050px 590px', color:'black'}}></CardTitle>
             <div className="section-2" style={{marginTop: '40px'}}>
               <CardText style={{fontSize:'3.2em', color:'black', height:'21px', fontFamily:'Saira', marginLeft:'10px'}}>Jukebox (SoundCloud API)</CardText>
               <CardText style={{marginLeft:'15px', marginTop:'5px', fontSize:'1.12em', width:'475px', fontFamily:'Play'}}>JukeBox is a music steaming
@@ -29,7 +29,7 @@
       } else if (this.state.activeTab === 1) {
         return(
           <Card shadow={10} style={{width:'1050px', height:'650px', margin:'auto', marginBottom:'24px', border:'2px solid black'}}>
-            <CardTitle style={{height:'400px', background:'url(https://dylanandrew88.github.io/portfolio/mcuapp.png) no-repeat', backgroundSize:'1050px 850px', color:'black'}}></CardTitle>
+            <CardTitle style={{height:'400px', background:'url(https://footballilluminatihome.files.wordpress.com/2019/06/mcuapp.png) no-repeat', backgroundSize:'1050px 850px', color:'black'}}></CardTitle>
             <div className="section-2" style={{marginTop: '40px'}}>
               <CardText style={{fontSize:'3.2em', color:'black', height:'21px', fontFamily:'Saira', marginLeft:'10px'}}>MCU App</CardText>
               <CardText style={{marginLeft:'15px', marginTop:'5px', fontSize:'1.12em', width:'475px', fontFamily:'Play'}}>MCU-App is a Marvel movie app built using JSON data
@@ -47,7 +47,7 @@
       } else if (this.state.activeTab === 2) {
         return(
           <Card shadow={10} style={{width:'1050px', height:'650px', margin:'auto', marginBottom:'24px', border:'2px solid black'}}>
-            <CardTitle style={{height:'400px', background:'url(https://dylanandrew88.github.io/portfolio/fandomonium.png) no-repeat', backgroundSize:'1060px 740px', color:'white'}}></CardTitle>
+            <CardTitle style={{height:'400px', background:'url(https://footballilluminatihome.files.wordpress.com/2019/06/fandomonium.png) no-repeat', backgroundSize:'1060px 740px', color:'white'}}></CardTitle>
             <div className="section-2" style={{marginTop:'40px'}}>
               <CardText style={{fontSize:'3.2em', color:'black', height:'21px', fontFamily:'Saira', marginLeft:'10px'}}>Fandomonium FanArt</CardText>
               <CardText style={{marginLeft:'15px', marginTop:'5px', fontSize:'1.12em', width:'475px', fontFamily:'Play'}}>Fandomonium is a shopping site built using ReactJS
@@ -65,7 +65,7 @@
       } else if (this.state.activeTab === 3) {
         return(
           <Card shadow={10} style={{width:'1050px', height:'650px', margin:'auto', marginBottom:'24px', border:'2px solid black'}}>
-            <CardTitle style={{height:'400px', background:'url(https://dylanandrew88.github.io/portfolio/Mystery-word.png) no-repeat', backgroundSize:'1050px 560px', color:'black'}}></CardTitle>
+            <CardTitle style={{height:'400px', background:'url(https://footballilluminatihome.files.wordpress.com/2019/06/mystery-word.png) no-repeat', backgroundSize:'1050px 560px', color:'black'}}></CardTitle>
             <div className="section-2" style={{marginTop: '40px'}}>
               <CardText style={{fontSize:'3.2em', color:'black', height:'21px', fontFamily:'Saira', marginLeft:'10px'}}>MysteryWord</CardText>
               <CardText style={{marginLeft:'15px', marginTop:'5px', fontSize:'1.12em', width:'475px', fontFamily:'Play'}}>Mystery Word is a hangman style word guessing game
