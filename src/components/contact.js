@@ -33,7 +33,7 @@
                   </ListItem>
                   <ListItem>
                     <i className="fa fa-address-card" aria-hidden="true"/>
-                    <ListItemContent style={{color:'black', fontSize:'27.5px', fontFamily:'Play'}}>Richmond, VA</ListItemContent>
+                    <ListItemContent style={{color:'black', fontSize:'27.5px', fontFamily:'Play'}}>Edison, NJ</ListItemContent>
                   </ListItem>
                 </List>
               </div>
